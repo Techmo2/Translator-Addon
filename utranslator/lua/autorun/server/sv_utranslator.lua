@@ -1,6 +1,6 @@
 -- Some variables
-local translation_url = "http://devmentality.com:1313/translate"
-local translation_key_url = "http://devmentality.com:1313/authenticate"
+local translation_url = "http://yourserveraddress:1313/translate"
+local translation_key_url = "http://yourserveraddress:1313/authenticate"
 local translation_key = nil
 local translation_id = "HG Zombie Survival Official"
 local version = "1.0.0b"
